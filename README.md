@@ -32,12 +32,29 @@ can explore, view and order products.<project-description></p>
  -->
   
 ## Screenshots
+<!-- Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Home Page](https://user-images.githubusercontent.com/59974142/128188553-a22bba70-feb7-4ab5-a039-cca90a42ddf3.JPG) |  ![Home Page](https://user-images.githubusercontent.com/59974142/128188553-a22bba70-feb7-4ab5-a039-cca90a42ddf3.JPG)
+ -->
 
-![Home Page](/screenshots/1.png "Home Page")
+#### Home Page
+![Home Page](https://user-images.githubusercontent.com/59974142/128188558-48723346-374e-4ab0-800b-2061e37d53a2.JPG)
 
-![](/screenshots/2.png)
+#### Product Page
+![Product Page](https://user-images.githubusercontent.com/59974142/128188553-a22bba70-feb7-4ab5-a039-cca90a42ddf3.JPG)
 
-![](/screenshots/3.png)
+#### Shopping Cart Page
+![Shopping Cart Page](https://user-images.githubusercontent.com/59974142/128188561-fcfe1e33-63a8-425a-876b-27536bd0a9e3.JPG)
+
+#### Order Page
+![Order Page](https://user-images.githubusercontent.com/59974142/128188562-6af003d3-8813-4be9-b346-e90d9e1bde6d.JPG)
+
+#### User Profile Page
+![User Profile Page](https://user-images.githubusercontent.com/59974142/128188563-663cd153-42d7-44b9-a5d4-f273d6db8090.JPG)
+  
+#### Admin Panel Pages - Users/Orders/Products
+![Admin Page](https://user-images.githubusercontent.com/59974142/128188564-7840cd0c-1047-4a32-a23b-724470419f27.JPG)
+
 
 ## Available Commands
   
