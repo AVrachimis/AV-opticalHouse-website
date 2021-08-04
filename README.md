@@ -1,4 +1,3 @@
-
 <h1 align="center">eShop<project-name></h1>
 
 <p align="center">A fully functional single page online shopping Web App where users
