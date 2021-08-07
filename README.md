@@ -1,6 +1,6 @@
 <h1 align="center">AV optical house website<project-name></h1>
 
-<p align="center">Simple static website.<project-description></p>
+<p align="center">Simple static website<project-description></p>
 
 ## Project Objectives
   
@@ -89,6 +89,7 @@ For running the server file on you can use this command.
 
 - JavaScript
 - HTML, CSS
+- Bootstrap
 <!-- 
 ## Future Updates
 
