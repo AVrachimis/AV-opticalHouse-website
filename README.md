@@ -1,11 +1,10 @@
-<h1 align="center">eShop<project-name></h1>
+<h1 align="center">AV optical house website<project-name></h1>
 
-<p align="center">A fully functional single page online shopping Web App where users
-can explore, view and order products.<project-description></p>
+<p align="center">Simple static website.<project-description></p>
 
 ## Project Objectives
   
-- Created a REST API with Django Rest Framework
+<!-- - Created a REST API with Django Rest Framework
 - Integrated Django and React
 - Implemented a full featured shopping cart
 - Created a product review and rating system
@@ -17,7 +16,7 @@ can explore, view and order products.<project-description></p>
 - Implemented from scratch a fully funtional single page online shopping web app
   
   
-  
+   -->
 <!-- 
 ## Links
 
@@ -36,7 +35,7 @@ can explore, view and order products.<project-description></p>
 ![Home Page](https://user-images.githubusercontent.com/59974142/128188553-a22bba70-feb7-4ab5-a039-cca90a42ddf3.JPG) |  ![Home Page](https://user-images.githubusercontent.com/59974142/128188553-a22bba70-feb7-4ab5-a039-cca90a42ddf3.JPG)
  -->
 
-#### Home Page
+<!-- #### Home Page
 ![Home Page](https://user-images.githubusercontent.com/59974142/128188558-48723346-374e-4ab0-800b-2061e37d53a2.JPG)
 
 #### Product Page
@@ -54,10 +53,12 @@ can explore, view and order products.<project-description></p>
 #### Admin Panel Pages - Users/Orders/Products
 ![Admin Page](https://user-images.githubusercontent.com/59974142/128188564-7840cd0c-1047-4a32-a23b-724470419f27.JPG)
 
-
-## Available Commands
+ -->
   
-Add commands here
+<!-- ## Available Commands
+  
+Add commands here -->
+  
 <!-- 
 In the project directory, you can run:
 
@@ -86,10 +87,7 @@ For running the server file on you can use this command.
  -->
 ## Built With
 
-- Python, Django, Django Rest Framework
-- JavaScript, ReactJs
-- AWS, PostgreSQL
-- Redux
+- JavaScript
 - HTML, CSS
 <!-- 
 ## Future Updates
