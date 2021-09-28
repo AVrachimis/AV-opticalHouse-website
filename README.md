@@ -2,7 +2,7 @@
 
 <p align="center">Simple static website<project-description></p>
 
-## Project Objectives
+<!-- ## Project Objectives -->
   
 <!-- - Created a REST API with Django Rest Framework
 - Integrated Django and React
