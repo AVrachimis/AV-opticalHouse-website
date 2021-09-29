@@ -31,9 +31,11 @@
   
 ## Screenshots
 <!-- Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![Home Page](https://user-images.githubusercontent.com/59974142/128188553-a22bba70-feb7-4ab5-a039-cca90a42ddf3.JPG) |  ![Home Page](https://user-images.githubusercontent.com/59974142/128188553-a22bba70-feb7-4ab5-a039-cca90a42ddf3.JPG)
- -->
+:-------------------------:|:-------------------------: -->
+![Home Section](https://user-images.githubusercontent.com/59974142/135299548-005423ab-9667-4a23-9399-7dbaea9a4478.JPG)
+![Services Section](https://user-images.githubusercontent.com/59974142/135299553-a07558c9-0888-4470-a219-e11ddc3d5a25.JPG)
+![Stores Section](https://user-images.githubusercontent.com/59974142/135299557-190d3903-fd1e-4051-82fd-a69de39df407.JPG)
+
 
 <!-- #### Home Page
 ![Home Page](https://user-images.githubusercontent.com/59974142/128188558-48723346-374e-4ab0-800b-2061e37d53a2.JPG)
