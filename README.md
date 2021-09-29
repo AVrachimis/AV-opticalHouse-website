@@ -1,6 +1,6 @@
 <h1 align="center">AV optical house website<project-name></h1>
 
-<p align="center">Simple static website<project-description></p>
+<p align="center">Simple static one-page website<project-description></p>
 
 <!-- ## Project Objectives -->
   
